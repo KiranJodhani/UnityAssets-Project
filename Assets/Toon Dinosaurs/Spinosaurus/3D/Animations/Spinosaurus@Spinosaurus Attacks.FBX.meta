@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 2648d1221d4486548bdae19560319990
+timeCreated: 1586456526
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Spinosaurus
+    100002: Spinosaurus Head
+    100004: Spinosaurus Jaw
+    100006: Spinosaurus L Calf
+    100008: Spinosaurus L Clavicle
+    100010: Spinosaurus L Eye
+    100012: Spinosaurus L Eyebrow
+    100014: Spinosaurus L Finger0
+    100016: Spinosaurus L Finger1
+    100018: Spinosaurus L Foot
+    100020: Spinosaurus L Forearm
+    100022: Spinosaurus L Hand
+    100024: Spinosaurus L Lower Eyelid
+    100026: Spinosaurus L Thigh
+    100028: Spinosaurus L Toe0
+    100030: Spinosaurus L Upper Eyelid
+    100032: Spinosaurus L Upper Mouth
+    100034: Spinosaurus L UpperArm
+    100036: Spinosaurus Neck
+    100038: Spinosaurus Pelvis
+    100040: Spinosaurus R Calf
+    100042: Spinosaurus R Clavicle
+    100044: Spinosaurus R Eye
+    100046: Spinosaurus R Eyebrow
+    100048: Spinosaurus R Finger0
+    100050: Spinosaurus R Finger1
+    100052: Spinosaurus R Foot
+    100054: Spinosaurus R Forearm
+    100056: Spinosaurus R Hand
+    100058: Spinosaurus R Lower Eyelid
+    100060: Spinosaurus R Thigh
+    100062: Spinosaurus R Toe0
+    100064: Spinosaurus R Upper Eyelid
+    100066: Spinosaurus R Upper Mouth
+    100068: Spinosaurus R UpperArm
+    100070: Spinosaurus Spine
+    100072: Spinosaurus Spine1
+    100074: Spinosaurus Spine2
+    100076: Spinosaurus Tail
+    100078: Spinosaurus Tail02
+    100080: Spinosaurus Tail03
+    100082: Spinosaurus Tail04
+    100084: Spinosaurus Tongue
+    100086: Spinosaurus Tongue02
+    100088: //RootNode
+    400000: Spinosaurus
+    400002: Spinosaurus Head
+    400004: Spinosaurus Jaw
+    400006: Spinosaurus L Calf
+    400008: Spinosaurus L Clavicle
+    400010: Spinosaurus L Eye
+    400012: Spinosaurus L Eyebrow
+    400014: Spinosaurus L Finger0
+    400016: Spinosaurus L Finger1
+    400018: Spinosaurus L Foot
+    400020: Spinosaurus L Forearm
+    400022: Spinosaurus L Hand
+    400024: Spinosaurus L Lower Eyelid
+    400026: Spinosaurus L Thigh
+    400028: Spinosaurus L Toe0
+    400030: Spinosaurus L Upper Eyelid
+    400032: Spinosaurus L Upper Mouth
+    400034: Spinosaurus L UpperArm
+    400036: Spinosaurus Neck
+    400038: Spinosaurus Pelvis
+    400040: Spinosaurus R Calf
+    400042: Spinosaurus R Clavicle
+    400044: Spinosaurus R Eye
+    400046: Spinosaurus R Eyebrow
+    400048: Spinosaurus R Finger0
+    400050: Spinosaurus R Finger1
+    400052: Spinosaurus R Foot
+    400054: Spinosaurus R Forearm
+    400056: Spinosaurus R Hand
+    400058: Spinosaurus R Lower Eyelid
+    400060: Spinosaurus R Thigh
+    400062: Spinosaurus R Toe0
+    400064: Spinosaurus R Upper Eyelid
+    400066: Spinosaurus R Upper Mouth
+    400068: Spinosaurus R UpperArm
+    400070: Spinosaurus Spine
+    400072: Spinosaurus Spine1
+    400074: Spinosaurus Spine2
+    400076: Spinosaurus Tail
+    400078: Spinosaurus Tail02
+    400080: Spinosaurus Tail03
+    400082: Spinosaurus Tail04
+    400084: Spinosaurus Tongue
+    400086: Spinosaurus Tongue02
+    400088: //RootNode
+    7400000: Spinosaurus Bite
+    7400002: Spinosaurus Bite Jump
+    7400004: Spinosaurus Tail
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spinosaurus Bite
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spinosaurus
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+          L Foot
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+          L Foot/Spinosaurus L Toe0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+          R Foot
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+          R Foot/Spinosaurus R Toe0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand/Spinosaurus L Finger0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand/Spinosaurus L Finger1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue/Spinosaurus
+          Tongue02
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eye
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eyebrow
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Lower Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Mouth
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eye
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eyebrow
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Lower Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Mouth
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand/Spinosaurus R Finger0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand/Spinosaurus R Finger1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+          Tail03
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+          Tail03/Spinosaurus Tail04
+        weight: 1
+      - path: Spinosaurus Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 2d2ec24b17851dc49879ee0e0161b14d, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spinosaurus Bite Jump
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spinosaurus
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+          L Foot
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+          L Foot/Spinosaurus L Toe0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+          R Foot
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+          R Foot/Spinosaurus R Toe0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand/Spinosaurus L Finger0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand/Spinosaurus L Finger1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue/Spinosaurus
+          Tongue02
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eye
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eyebrow
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Lower Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Mouth
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eye
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eyebrow
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Lower Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Mouth
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand/Spinosaurus R Finger0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand/Spinosaurus R Finger1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+          Tail03
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+          Tail03/Spinosaurus Tail04
+        weight: 1
+      - path: Spinosaurus Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 2d2ec24b17851dc49879ee0e0161b14d, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spinosaurus Tail
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spinosaurus
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+          L Foot
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+          L Foot/Spinosaurus L Toe0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+          R Foot
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+          R Foot/Spinosaurus R Toe0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand/Spinosaurus L Finger0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+          L Hand/Spinosaurus L Finger1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue/Spinosaurus
+          Tongue02
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eye
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eyebrow
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Lower Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Mouth
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eye
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eyebrow
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Lower Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Eyelid
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Mouth
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand/Spinosaurus R Finger0
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+          Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+          R Hand/Spinosaurus R Finger1
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+          Tail03
+        weight: 1
+      - path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+          Tail03/Spinosaurus Tail04
+        weight: 1
+      - path: Spinosaurus Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 2d2ec24b17851dc49879ee0e0161b14d, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Spinosaurus Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spinosaurus Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Spinosaurus(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000049115715, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spinosaurus
+      parentName: Spinosaurus(Clone)
+      position: {x: -0.000000012997678, y: 0.93295896, z: -0.2973522}
+      rotation: {x: -0.42775548, y: 0.42775497, z: 0.5630498, w: 0.56305057}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Spinosaurus Pelvis
+      parentName: Spinosaurus
+      position: {x: -0.1934464, y: 0.000000059604638, z: 0.41397563}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000006}
+    - name: Spinosaurus Spine
+      parentName: Spinosaurus Pelvis
+      position: {x: -0.07592628, y: 0.04710804, z: -0.00000011487398}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1}
+    - name: Spinosaurus Spine1
+      parentName: Spinosaurus Spine
+      position: {x: -0.3096955, y: -0.0002456665, z: -7.3545375e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999946, z: 0.9999998}
+    - name: Spinosaurus Spine2
+      parentName: Spinosaurus Spine1
+      position: {x: -0.3096954, y: -0.0002457428, z: -7.427297e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000006}
+    - name: Spinosaurus Neck
+      parentName: Spinosaurus Spine2
+      position: {x: -0.30943912, y: -0.0004747009, z: -2.1420418e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999994, y: 0.9999995, z: 0.9999995}
+    - name: Spinosaurus Head
+      parentName: Spinosaurus Neck
+      position: {x: -0.6652189, y: -0.00000015258789, z: -2.910383e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.000001, z: 1.0000006}
+    - name: Spinosaurus L Lower Eyelid
+      parentName: Spinosaurus Head
+      position: {x: -0.29132292, y: 0.55660474, z: 0.18956052}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000006}
+    - name: Spinosaurus L Upper Mouth
+      parentName: Spinosaurus Head
+      position: {x: -0.024365386, y: 0.99684554, z: 0.196056}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 0.9999998}
+    - name: Spinosaurus Jaw
+      parentName: Spinosaurus Head
+      position: {x: -0.06819839, y: 0.2982254, z: 0.00000027043103}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000004}
+    - name: Spinosaurus Tongue
+      parentName: Spinosaurus Jaw
+      position: {x: -0.07612533, y: 0.029310303, z: -0.0000000030137015}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999992, z: 0.9999999}
+    - name: Spinosaurus Tongue02
+      parentName: Spinosaurus Tongue
+      position: {x: -0.28625435, y: -0.00021697997, z: -6.021582e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Spinosaurus L Eyebrow
+      parentName: Spinosaurus Head
+      position: {x: -0.3254126, y: 0.50667936, z: 0.14255683}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.000001, z: 1.0000007}
+    - name: Spinosaurus L Upper Eyelid
+      parentName: Spinosaurus Head
+      position: {x: -0.29143447, y: 0.55656385, z: 0.18945286}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000013}
+    - name: Spinosaurus R Upper Mouth
+      parentName: Spinosaurus Head
+      position: {x: -0.024365691, y: 0.9968463, z: -0.19605044}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000012}
+    - name: Spinosaurus R Eyebrow
+      parentName: Spinosaurus Head
+      position: {x: -0.3254126, y: 0.50667995, z: -0.14255404}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000012, z: 1}
+    - name: Spinosaurus L Eye
+      parentName: Spinosaurus Head
+      position: {x: -0.29151535, y: 0.55660415, z: 0.18947971}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999999, y: 0.9999994, z: 1.0000004}
+    - name: Spinosaurus R Lower Eyelid
+      parentName: Spinosaurus Head
+      position: {x: -0.2913231, y: 0.5566058, z: -0.18955737}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1.0000005, z: 0.999999}
+    - name: Spinosaurus R Upper Eyelid
+      parentName: Spinosaurus Head
+      position: {x: -0.29143432, y: 0.5565651, z: -0.18944971}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 0.99999934, z: 0.9999988}
+    - name: Spinosaurus R Eye
+      parentName: Spinosaurus Head
+      position: {x: -0.29151535, y: 0.5566052, z: -0.18947656}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999996, z: 0.99999964}
+    - name: Spinosaurus L Clavicle
+      parentName: Spinosaurus Spine2
+      position: {x: -0.20845184, y: 0.122487485, z: 0.06253033}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.99999994}
+    - name: Spinosaurus L UpperArm
+      parentName: Spinosaurus L Clavicle
+      position: {x: -0.277515, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000006, z: 1.000001}
+    - name: Spinosaurus L Forearm
+      parentName: Spinosaurus L UpperArm
+      position: {x: -0.26112807, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000002}
+    - name: Spinosaurus L Hand
+      parentName: Spinosaurus L Forearm
+      position: {x: -0.26112792, y: 0.000000038146972, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000001}
+    - name: Spinosaurus L Finger0
+      parentName: Spinosaurus L Hand
+      position: {x: -0.17331947, y: 0.05416275, z: -0.079041325}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
+    - name: Spinosaurus L Finger1
+      parentName: Spinosaurus L Hand
+      position: {x: -0.17315727, y: 0.077532195, z: 0.052139893}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.000001}
+    - name: Spinosaurus R Clavicle
+      parentName: Spinosaurus Spine2
+      position: {x: -0.20845184, y: 0.122487865, z: -0.06252966}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000006, y: 0.999999, z: 1.0000001}
+    - name: Spinosaurus R UpperArm
+      parentName: Spinosaurus R Clavicle
+      position: {x: -0.277515, y: -0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000002}
+    - name: Spinosaurus R Forearm
+      parentName: Spinosaurus R UpperArm
+      position: {x: -0.261128, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000002, z: 1}
+    - name: Spinosaurus R Hand
+      parentName: Spinosaurus R Forearm
+      position: {x: -0.26112816, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000002}
+    - name: Spinosaurus R Finger1
+      parentName: Spinosaurus R Hand
+      position: {x: -0.17315727, y: 0.07753216, z: -0.052139852}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000005}
+    - name: Spinosaurus R Finger0
+      parentName: Spinosaurus R Hand
+      position: {x: -0.17331947, y: 0.054162674, z: 0.07904141}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000004, y: 0.99999994, z: 0.99999934}
+    - name: Spinosaurus Tail
+      parentName: Spinosaurus Pelvis
+      position: {x: 0.19847412, y: -0.29972705, z: 0.00000039233302}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000006}
+    - name: Spinosaurus Tail02
+      parentName: Spinosaurus Tail
+      position: {x: -0.4856697, y: -0.00038650513, z: -0.000000001071894}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: Spinosaurus Tail03
+      parentName: Spinosaurus Tail02
+      position: {x: -0.48567, y: -0.0003865814, z: -0.0000000010721851}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: Spinosaurus Tail04
+      parentName: Spinosaurus Tail03
+      position: {x: -0.48566955, y: -0.00038665772, z: -0.0000000010727672}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000005}
+    - name: Spinosaurus L Thigh
+      parentName: Spinosaurus Pelvis
+      position: {x: 0.00000030517577, y: 0.00000034332274, z: 0.21107854}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.000001}
+    - name: Spinosaurus L Calf
+      parentName: Spinosaurus L Thigh
+      position: {x: -0.54048055, y: -0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000019, z: 1.0000011}
+    - name: Spinosaurus L Foot
+      parentName: Spinosaurus L Calf
+      position: {x: -0.49416304, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.9999996}
+    - name: Spinosaurus L Toe0
+      parentName: Spinosaurus L Foot
+      position: {x: -0.1595002, y: 0.343927, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000017, y: 0.99999964, z: 1.0000008}
+    - name: Spinosaurus R Thigh
+      parentName: Spinosaurus Pelvis
+      position: {x: -0.00000030517577, y: -0.0000002670288, z: -0.21107854}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.000001}
+    - name: Spinosaurus R Calf
+      parentName: Spinosaurus R Thigh
+      position: {x: -0.54048055, y: -0.000000028610229, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.99999946}
+    - name: Spinosaurus R Foot
+      parentName: Spinosaurus R Calf
+      position: {x: -0.49416298, y: -0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000006}
+    - name: Spinosaurus R Toe0
+      parentName: Spinosaurus R Foot
+      position: {x: -0.1595002, y: 0.34392697, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 0.9999998, z: 1.0000006}
+    - name: Spinosaurus Mesh
+      parentName: Spinosaurus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: dcab05cb89a398049b58a6ae63a07913,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

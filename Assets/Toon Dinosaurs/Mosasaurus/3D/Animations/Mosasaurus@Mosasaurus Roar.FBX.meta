@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: f38b2a61d58cb72489763085959269aa
+timeCreated: 1533588579
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Eye Left
+    100002: Eye Right
+    100004: Eye Shine Left
+    100006: Eye Shine Right
+    100008: Mosasaurus
+    100010: Mosasaurus Head
+    100012: Mosasaurus Jaw
+    100014: Mosasaurus L Calf
+    100016: Mosasaurus L Clavicle
+    100018: Mosasaurus L Eyebrow
+    100020: Mosasaurus L Foot
+    100022: Mosasaurus L Forearm
+    100024: Mosasaurus L Hand
+    100026: Mosasaurus L Lower Eyelid
+    100028: Mosasaurus L Lower Mouth
+    100030: Mosasaurus L Thigh
+    100032: Mosasaurus L Toe0
+    100034: Mosasaurus L Upper Eyelid
+    100036: Mosasaurus L Upper Mouth
+    100038: Mosasaurus L UpperArm
+    100040: Mosasaurus Neck
+    100042: Mosasaurus Pelvis
+    100044: Mosasaurus R Calf
+    100046: Mosasaurus R Clavicle
+    100048: Mosasaurus R Eyebrow
+    100050: Mosasaurus R Foot
+    100052: Mosasaurus R Forearm
+    100054: Mosasaurus R Hand
+    100056: Mosasaurus R Lower Eyelid
+    100058: Mosasaurus R Lower Mouth
+    100060: Mosasaurus R Thigh
+    100062: Mosasaurus R Toe0
+    100064: Mosasaurus R Upper Eyelid
+    100066: Mosasaurus R Upper Mouth
+    100068: Mosasaurus R UpperArm
+    100070: Mosasaurus Spine
+    100072: Mosasaurus Spine1
+    100074: Mosasaurus Spine2
+    100076: Mosasaurus Tail
+    100078: Mosasaurus Tail1
+    100080: Mosasaurus Tail2
+    100082: Mosasaurus Tail3
+    100084: Mosasaurus Tail4
+    100086: Mosasaurus Tongue
+    100088: Mosasaurus Tongue02
+    100090: Mosasaurus Tongue03
+    100092: //RootNode
+    400000: Eye Left
+    400002: Eye Right
+    400004: Eye Shine Left
+    400006: Eye Shine Right
+    400008: Mosasaurus
+    400010: Mosasaurus Head
+    400012: Mosasaurus Jaw
+    400014: Mosasaurus L Calf
+    400016: Mosasaurus L Clavicle
+    400018: Mosasaurus L Eyebrow
+    400020: Mosasaurus L Foot
+    400022: Mosasaurus L Forearm
+    400024: Mosasaurus L Hand
+    400026: Mosasaurus L Lower Eyelid
+    400028: Mosasaurus L Lower Mouth
+    400030: Mosasaurus L Thigh
+    400032: Mosasaurus L Toe0
+    400034: Mosasaurus L Upper Eyelid
+    400036: Mosasaurus L Upper Mouth
+    400038: Mosasaurus L UpperArm
+    400040: Mosasaurus Neck
+    400042: Mosasaurus Pelvis
+    400044: Mosasaurus R Calf
+    400046: Mosasaurus R Clavicle
+    400048: Mosasaurus R Eyebrow
+    400050: Mosasaurus R Foot
+    400052: Mosasaurus R Forearm
+    400054: Mosasaurus R Hand
+    400056: Mosasaurus R Lower Eyelid
+    400058: Mosasaurus R Lower Mouth
+    400060: Mosasaurus R Thigh
+    400062: Mosasaurus R Toe0
+    400064: Mosasaurus R Upper Eyelid
+    400066: Mosasaurus R Upper Mouth
+    400068: Mosasaurus R UpperArm
+    400070: Mosasaurus Spine
+    400072: Mosasaurus Spine1
+    400074: Mosasaurus Spine2
+    400076: Mosasaurus Tail
+    400078: Mosasaurus Tail1
+    400080: Mosasaurus Tail2
+    400082: Mosasaurus Tail3
+    400084: Mosasaurus Tail4
+    400086: Mosasaurus Tongue
+    400088: Mosasaurus Tongue02
+    400090: Mosasaurus Tongue03
+    400092: //RootNode
+    2100000: Eyes
+    2100002: 03 - Default
+    2300000: Eye Left
+    2300002: Eye Right
+    2300004: Eye Shine Left
+    2300006: Eye Shine Right
+    3300000: Eye Left
+    3300002: Eye Right
+    3300004: Eye Shine Left
+    3300006: Eye Shine Right
+    4300000: Eye Right
+    4300002: Eye Shine Right
+    4300004: Eye Shine Left
+    7400000: Mosasaurus Roar
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mosasaurus Roar
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mosasaurus
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus L Thigh
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus L Thigh/Mosasaurus L Calf
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus L Thigh/Mosasaurus L Calf/Mosasaurus
+          L Foot
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus L Thigh/Mosasaurus L Calf/Mosasaurus
+          L Foot/Mosasaurus L Toe0
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus R Thigh
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus R Thigh/Mosasaurus R Calf
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus R Thigh/Mosasaurus R Calf/Mosasaurus
+          R Foot
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus R Thigh/Mosasaurus R Calf/Mosasaurus
+          R Foot/Mosasaurus R Toe0
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus L Clavicle
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus L Clavicle/Mosasaurus L UpperArm
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus L Clavicle/Mosasaurus L UpperArm/Mosasaurus L Forearm
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus L Clavicle/Mosasaurus L UpperArm/Mosasaurus L Forearm/Mosasaurus
+          L Hand
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Eye Left
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Eye Right
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Eye Shine Left
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Eye Shine Right
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus Jaw
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus Jaw/Mosasaurus L Lower
+          Mouth
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus Jaw/Mosasaurus R Lower
+          Mouth
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus Jaw/Mosasaurus Tongue
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus Jaw/Mosasaurus Tongue/Mosasaurus
+          Tongue02
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus Jaw/Mosasaurus Tongue/Mosasaurus
+          Tongue02/Mosasaurus Tongue03
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus L Eyebrow
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus L Lower Eyelid
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus L Upper Eyelid
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus L Upper Mouth
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus R Eyebrow
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus R Lower Eyelid
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus R Upper Eyelid
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus Neck/Mosasaurus Head/Mosasaurus R Upper Mouth
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus R Clavicle
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus R Clavicle/Mosasaurus R UpperArm
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus R Clavicle/Mosasaurus R UpperArm/Mosasaurus R Forearm
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Spine/Mosasaurus Spine1/Mosasaurus
+          Spine2/Mosasaurus R Clavicle/Mosasaurus R UpperArm/Mosasaurus R Forearm/Mosasaurus
+          R Hand
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Tail
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Tail/Mosasaurus Tail1
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Tail/Mosasaurus Tail1/Mosasaurus
+          Tail2
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Tail/Mosasaurus Tail1/Mosasaurus
+          Tail2/Mosasaurus Tail3
+        weight: 1
+      - path: Mosasaurus/Mosasaurus Pelvis/Mosasaurus Tail/Mosasaurus Tail1/Mosasaurus
+          Tail2/Mosasaurus Tail3/Mosasaurus Tail4
+        weight: 1
+      - path: Mosasaurus Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 967d97bbc9488024d988943366034e09, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Mosasaurus Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mosasaurus Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Mosasaurus(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0.00000026066454, z: 0.00000026066454, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mosasaurus
+      parentName: Mosasaurus(Clone)
+      position: {x: -0.000000051212208, y: 0.37625325, z: -1.1715987}
+      rotation: {x: 0.000000042146876, y: 0.000000042146823, z: 0.70710635, w: 0.70710725}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Mosasaurus Pelvis
+      parentName: Mosasaurus
+      position: {x: -0.37625343, y: 0.00000008940697, z: 2.1367855}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000005}
+    - name: Mosasaurus Spine
+      parentName: Mosasaurus Pelvis
+      position: {x: -0.1691867, y: -0.13253742, z: 0.0000005939343}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000001}
+    - name: Mosasaurus Spine1
+      parentName: Mosasaurus Spine
+      position: {x: -0.6431212, y: -0.0005120849, z: -0.0000000014203396}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: Mosasaurus Spine2
+      parentName: Mosasaurus Spine1
+      position: {x: -0.6431212, y: -0.0005121231, z: -0.0000000014204125}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Mosasaurus Neck
+      parentName: Mosasaurus Spine2
+      position: {x: -0.6430806, y: -0.0002304077, z: -6.3904737e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: Mosasaurus Head
+      parentName: Mosasaurus Neck
+      position: {x: -0.29384232, y: 0, z: 3.6379787e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999991, y: 1.0000002, z: 1.0000001}
+    - name: Eye Left
+      parentName: Mosasaurus Head
+      position: {x: -0.2934957, y: 0.42994216, z: 0.23940152}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: Eye Right
+      parentName: Mosasaurus Head
+      position: {x: -0.2934964, y: 0.42994338, z: -0.23939851}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 0.99999994}
+    - name: Eye Shine Left
+      parentName: Mosasaurus Head
+      position: {x: -0.3166879, y: 0.46112183, z: 0.34870517}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999946, y: 1.4999995, z: 0.99999994}
+    - name: Eye Shine Right
+      parentName: Mosasaurus Head
+      position: {x: -0.31668884, y: 0.46112365, z: -0.34869826}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 1.4999996, z: 1}
+    - name: Mosasaurus R Upper Mouth
+      parentName: Mosasaurus Head
+      position: {x: -0.23515426, y: 0.88288647, z: -0.214902}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000004}
+    - name: Mosasaurus Jaw
+      parentName: Mosasaurus Head
+      position: {x: 0.037989195, y: 0.113801956, z: -0.00000040994374}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000004}
+    - name: Mosasaurus R Lower Mouth
+      parentName: Mosasaurus Jaw
+      position: {x: -0.69965297, y: 0.08591377, z: -0.18964164}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999946, y: 0.99999964, z: 0.9999994}
+    - name: Mosasaurus Tongue
+      parentName: Mosasaurus Jaw
+      position: {x: -0.18797645, y: 0.22434783, z: 0.0000018679746}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000006, z: 1}
+    - name: Mosasaurus Tongue02
+      parentName: Mosasaurus Tongue
+      position: {x: -0.3189598, y: -0.00022649765, z: 2.636807e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000015, z: 1.0000006}
+    - name: Mosasaurus Tongue03
+      parentName: Mosasaurus Tongue02
+      position: {x: -0.3188362, y: -0.00025375365, z: -7.446215e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999994, y: 0.9999987, z: 0.99999976}
+    - name: Mosasaurus L Lower Mouth
+      parentName: Mosasaurus Jaw
+      position: {x: -0.69965315, y: 0.08591064, z: 0.18964414}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 0.99999964, z: 0.99999964}
+    - name: Mosasaurus L Upper Mouth
+      parentName: Mosasaurus Head
+      position: {x: -0.23515418, y: 0.8828854, z: 0.21490687}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000005}
+    - name: Mosasaurus R Eyebrow
+      parentName: Mosasaurus Head
+      position: {x: -0.42248031, y: 0.57621306, z: -0.30450672}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: Mosasaurus R Upper Eyelid
+      parentName: Mosasaurus Head
+      position: {x: -0.28664228, y: 0.4395021, z: -0.25504512}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000011, z: 0.9999999}
+    - name: Mosasaurus R Lower Eyelid
+      parentName: Mosasaurus Head
+      position: {x: -0.29688308, y: 0.4385913, z: -0.25240907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000012, z: 0.99999994}
+    - name: Mosasaurus L Eyebrow
+      parentName: Mosasaurus Head
+      position: {x: -0.42248031, y: 0.5762112, z: 0.30450985}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1}
+    - name: Mosasaurus L Upper Eyelid
+      parentName: Mosasaurus Head
+      position: {x: -0.28664228, y: 0.43950057, z: 0.25504753}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000008}
+    - name: Mosasaurus L Lower Eyelid
+      parentName: Mosasaurus Head
+      position: {x: -0.29688308, y: 0.43858978, z: 0.25241148}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000019, z: 1.0000018}
+    - name: Mosasaurus R Clavicle
+      parentName: Mosasaurus Spine2
+      position: {x: -0.32031944, y: 0.19602008, z: -0.14593543}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000002, y: 0.9999996, z: 1.0000012}
+    - name: Mosasaurus R UpperArm
+      parentName: Mosasaurus R Clavicle
+      position: {x: -0.5799056, y: -0.000000019073486, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1}
+    - name: Mosasaurus R Forearm
+      parentName: Mosasaurus R UpperArm
+      position: {x: -0.49513245, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000005}
+    - name: Mosasaurus R Hand
+      parentName: Mosasaurus R Forearm
+      position: {x: -0.49513212, y: -0.000000038146972, z: 0.000000076293944}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1}
+    - name: Mosasaurus L Clavicle
+      parentName: Mosasaurus Spine2
+      position: {x: -0.32031944, y: 0.19601928, z: 0.14593652}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.9999989, y: 0.99999934, z: 0.9999995}
+    - name: Mosasaurus L UpperArm
+      parentName: Mosasaurus L Clavicle
+      position: {x: -0.57990557, y: -0.000000076293944, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Mosasaurus L Forearm
+      parentName: Mosasaurus L UpperArm
+      position: {x: -0.49513245, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 0.9999999, z: 0.99999994}
+    - name: Mosasaurus L Hand
+      parentName: Mosasaurus L Forearm
+      position: {x: -0.49513236, y: 0.000000038146972, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1, y: 1.000001, z: 1.0000017}
+    - name: Mosasaurus Tail
+      parentName: Mosasaurus Pelvis
+      position: {x: 0.16898666, y: -0.15324402, z: 0.000000014781181}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999934, z: 1}
+    - name: Mosasaurus Tail1
+      parentName: Mosasaurus Tail
+      position: {x: -0.48229277, y: -0.00038108826, z: -0.0000000010569056}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: Mosasaurus Tail2
+      parentName: Mosasaurus Tail1
+      position: {x: -0.48229384, y: -0.00038116454, z: -0.0000000010571967}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000007}
+    - name: Mosasaurus Tail3
+      parentName: Mosasaurus Tail2
+      position: {x: -0.48231092, y: -0.0003830719, z: -0.0000000010622898}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Mosasaurus Tail4
+      parentName: Mosasaurus Tail3
+      position: {x: -0.48225158, y: -0.00027687073, z: -7.67759e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.99999964}
+    - name: Mosasaurus R Thigh
+      parentName: Mosasaurus Pelvis
+      position: {x: -0.0000003814697, y: -0.0000003814697, z: -0.23847944}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000008, y: 1, z: 1.0000007}
+    - name: Mosasaurus R Calf
+      parentName: Mosasaurus R Thigh
+      position: {x: -0.44111773, y: 0.000000038146972, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000014}
+    - name: Mosasaurus R Foot
+      parentName: Mosasaurus R Calf
+      position: {x: -0.3315979, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000012}
+    - name: Mosasaurus R Toe0
+      parentName: Mosasaurus R Foot
+      position: {x: -0.16435817, y: 0.21152176, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000014, y: 0.99999905, z: 1}
+    - name: Mosasaurus L Thigh
+      parentName: Mosasaurus Pelvis
+      position: {x: 0.0000003814697, y: 0.00000030517577, z: 0.23847944}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.9999996, y: 0.9999999, z: 0.9999999}
+    - name: Mosasaurus L Calf
+      parentName: Mosasaurus L Thigh
+      position: {x: -0.4411177, y: 0.000000114440915, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: Mosasaurus L Foot
+      parentName: Mosasaurus L Calf
+      position: {x: -0.33159775, y: 0, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 0.9999996}
+    - name: Mosasaurus L Toe0
+      parentName: Mosasaurus L Foot
+      position: {x: -0.16435821, y: 0.21152169, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999996, y: 0.9999995, z: 0.9999999}
+    - name: Mosasaurus Mesh
+      parentName: Mosasaurus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Mosasaurus
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5731d1e04b0a2bf43ad5d30b4f117b1c,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

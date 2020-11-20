@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spinosaurus All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Spinosaurus
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+      L Foot
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus L Thigh/Spinosaurus L Calf/Spinosaurus
+      L Foot/Spinosaurus L Toe0
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+      R Foot
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus R Thigh/Spinosaurus R Calf/Spinosaurus
+      R Foot/Spinosaurus R Toe0
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus L Clavicle
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+      L Hand
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+      L Hand/Spinosaurus L Finger0
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus L Clavicle/Spinosaurus L UpperArm/Spinosaurus L Forearm/Spinosaurus
+      L Hand/Spinosaurus L Finger1
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus Jaw/Spinosaurus Tongue/Spinosaurus
+      Tongue02
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eye
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Eyebrow
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus L Upper Mouth
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eye
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Eyebrow
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus Neck/Spinosaurus Head/Spinosaurus R Upper Mouth
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus R Clavicle
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+      R Hand
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+      R Hand/Spinosaurus R Finger0
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Spine/Spinosaurus Spine1/Spinosaurus
+      Spine2/Spinosaurus R Clavicle/Spinosaurus R UpperArm/Spinosaurus R Forearm/Spinosaurus
+      R Hand/Spinosaurus R Finger1
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+      Tail03
+    m_Weight: 1
+  - m_Path: Spinosaurus/Spinosaurus Pelvis/Spinosaurus Tail/Spinosaurus Tail02/Spinosaurus
+      Tail03/Spinosaurus Tail04
+    m_Weight: 1
+  - m_Path: Spinosaurus Mesh
+    m_Weight: 1
