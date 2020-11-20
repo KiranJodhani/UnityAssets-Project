@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3196586757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69face2e02ba645b53e1fdb34c7d0744
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d77f7bf2f6195d36f73bb493d8c0f9b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleModule/Prefabs/Christmas/elf_model_8.prefab
+Dependencies: []

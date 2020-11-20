@@ -1,7 +1,34 @@
 ManifestFileVersion: 0
-CRC: 2426782391
+CRC: 1699249819
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: elf_model_10.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: elf_model_9.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: elf_model_1.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: elf_model_2.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: elf_model_3.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: elf_model_4.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: elf_model_5.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: elf_model_6.unity3d
+      Dependencies: {}
+    Info_8:
       Name: elf_model_7.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: elf_model_8.unity3d
       Dependencies: {}
