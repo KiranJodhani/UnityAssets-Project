@@ -1,4 +1,4 @@
-﻿junaid.joosani@sellnu.com
+junaid.joosani@sellnu.com
 Junaid210879
 
 https://panel.immerch.com/api/three-d-model/lists
@@ -8,5 +8,9 @@ Admin panel credential
 
 https://panel.immerch.com/#/app/managethreedmodel
 super_admin/Admin@123$
+
+
+
+===============
 
 
